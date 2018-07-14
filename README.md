@@ -20,5 +20,5 @@ Assumptions:
 
 Below is the command to trigger the job:
 
-spark-submit generate_weatherdata.py -i <Input GeoTiff File> -l <LatitudeLongitude Mapping File> -o <Output Location> -c <Continent>
+spark-submit generate_weatherdata.py -i Input GeoTiff File -l LatitudeLongitude Mapping File -o Output Location -c Continent
 # generateweatherdata_spark
